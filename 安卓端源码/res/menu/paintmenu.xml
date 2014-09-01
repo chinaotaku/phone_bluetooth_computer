@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/MoveMouse" android:title="@string/huadongshubiao"></item><item android:id="@+id/underline" android:title="@string/huaxian"></item>
+    <item android:id="@+id/Write" android:title="@string/shouxie"></item><item android:id="@+id/Mark" android:title="@string/biaoji"></item>
+    
+    
+    <item android:id="@+id/Clear" android:title="@string/qingping"></item><item android:id="@+id/Return" android:title="@string/fanhui"></item>
+    
+
+</menu>
